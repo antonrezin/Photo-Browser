@@ -42,7 +42,6 @@ function PhotoDetails() {
           display: "flex",
           flexDirection: "column",
           alignItems: "center",
-          bgcolor: "#fafafa",
           py: 8,
         }}
       >
